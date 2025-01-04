@@ -1,6 +1,9 @@
 # Integrative Transcriptome-Wide Analysis for Alzheimer’s Disease
 This repository contains the code and methods used in the research paper "Integrating GWAS and Transcriptome Data: Leveraging PrediXcan and Multimodal Deep Learning to Reveal the Genetic Basis and Novel Drug Repositioning Opportunities for Alzheimer's Disease". The study utilizes multi-tissue transcriptome-wide association studies (TWAS) and deep learning techniques to identify key genes and potential drug repositioning candidates related to Alzheimer's Disease (AD).
 
+https://www.medrxiv.org/content/10.1101/2025.01.02.25319880v1.full
+<br> <br> 
+ 
 ![Graph Abstract](https://github.com/LearnDrugAI/Multi-Tissue_Analysis_DL_AD/blob/main/Graph%20Abstract.png)
 ## Table of Contents
 * Introduction
